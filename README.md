@@ -13,4 +13,4 @@ rectangle collides with it.
 
 Rectangle Freeze Tag v1 was developed in Collaboration with:
 
-Sedak Puri https://www.linkedin.com/in/sedak-puri-702b41148/
+Sedak Puri https://github.com/SedakPuri
